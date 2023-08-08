@@ -67,3 +67,12 @@ node
 /.scannerwork/
 .theme
 /.idea/
+
+# chunk files
+*.chunk.*
+
+# map files
+*.js.map
+
+# run time files
+*runtime.*
